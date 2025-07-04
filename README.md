@@ -7,9 +7,9 @@ nenhuma educação finânceira, simplificando a finança pessoal para aqueles qu
 ## Público-alvo
 O publico alvo será a população brasileira baixa e média renda e com pouco conhecimento de financias pessoais
 ## Funcionalidades principais
--Fazer cálculos matemáticos com base no salário e gastos dos usuários.
+- Fazer cálculos matemáticos com base no salário e gastos dos usuários.
 - Representação visual de gráficos mostrando em porcentagem os gastos mensais e ganhos mensais, para a organização de finanças próprias.
--Mostrar informações de estatística analítica.
+- Mostrar informações de estatística analítica.
 ## Diferencial
 Interface simplificada. Apresentação direta de informações de estatística analítica. 
 Completamente gratuito.
